@@ -72,7 +72,7 @@ A project dedicated to presenting classical guitar performances and musical serv
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielbevilaqua13-pixel&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbevilaqua13-pixel&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbevilaqua13-pixel&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent" alt="Most used languages" />
 
 </div>
 

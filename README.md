@@ -80,7 +80,6 @@ A project dedicated to presenting classical guitar performances and musical serv
 
 <div align="center">
 
-*Technology is most meaningful when it helps people learn, create, and achieve more.*
 
 **Gabriel Beviláqua · Brazil**
 

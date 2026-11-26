@@ -2,7 +2,7 @@
 
 # Gabriel Beviláqua
 
-**Python Developer · AI & Software Development · Educational Technology**
+**Python & TypeScript Developer · AI & Software Development · Educational Technology**
 
 Building practical software at the intersection of artificial intelligence, education, and creativity.
 
